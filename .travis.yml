@@ -7,3 +7,7 @@ deploy:
   domain: familytree-c0dekill3r.rhcloud.com
   on:
     repo: Nabeelhassan/familytree
+    
+language: node_js
+node_js:
+  - "node"
