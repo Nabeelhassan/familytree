@@ -1,0 +1,9 @@
+deploy:
+  provider: openshift
+  user: nabeelhassan_17@hotmail.com
+  password:
+    secure: qb2+MIK2h7t/zvhAQ+zy0EwBLVcVpetT9QvrUDUaQH/ES3/6jIBil8i5UZHmtBu8Q/Tm0egXFKxiBaiBIEqHgf5tsaX3L2AWAkWrrSOeT+i9ahhRIZyVrY9W05wzFpW1vXMNGBlAikFrTK5rnH3bp4z1ilAszuN5EyqKlpH1qJr9rAPIAUZOWIyLt4qsdX5LbcvvoSfwrnn2/G/Htb3Dgz6NIoGS9+1xfpnH8V4znZetTsSYe5MzM+OUhbcjG4AM7hVqSNTmyRN4aw9aJlgEwaohvSVn8NBj5KCuwo3h8gt10IeBPW/HGG/PkSx+yBFrY2tpu16L50JB43ShNXfOEP2tWj3Zy5H0Zy1fe2KdxqwQE6biklIwYR3clruTw2mmqVYlFMAq4tFuG/UZi37Ii5AYxPwNIat8pvVhLEVuIa3K/KpSdUml+rqpt7VKLLXsyI5XzdsZ6JWUvk6mHyNxcOeJppr6vQMyf/RWSzcCKVQn1A7NTvO1dhPeqqRIgMjwp1d/PsOcA+zoaw1yAOE+fek5pjhTK00WVAIWEQubGZJShbVxe6WveVQvoNbo9/CxbZKRZMwslr50U8OItXqBZvsfmjAMlxEV0k4jsJIIXHq4ScyBZ1FzYTmXvkiYpdOpis6Y4IFixxaH2q8e4yxZdX4A51hGtNHrA9wv7Kcocf4=
+  app: familytree
+  domain: familytree-c0dekill3r.rhcloud.com
+  on:
+    repo: Nabeelhassan/familytree
